@@ -4,9 +4,6 @@ from helpers import draw_box, url_to_img, img_to_bytese
 
 
 
-
-
-
 class PythonPredictor:
 
     def __init__(self, config):
